@@ -1,0 +1,2 @@
+# ProjectMA
+Training project
